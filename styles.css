@@ -42,7 +42,10 @@ p {
   font-weight: 300;
   font-size: 25px;
   padding-top: 15px;
-  list-style: none;
+}
+.tasksec ul {
+  background-size: auto;
+  list-style-image: url("Ellipse\ 1.jpg");
 }
 .dropdown-button {
   border-radius: 15px;
